@@ -38,7 +38,12 @@ Muliple steps were taken to prepare and review the data including:
 - Data pre-processing for ML after exploratory and explanatory analysis
 
 ## EDA
-Will be included in next update
+Individuals over 35 typically make more than 50k.
+![](https://github.com/hokushrine/Prediction-of-Adult-Income/blob/main/images/income_vs_age.png?raw=true)
+
+
+The native-country column ended up not being very useful due to most people being from the United States. Data is either lacking or biased.
+![](https://github.com/hokushrine/Prediction-of-Adult-Income/blob/main/images/income_by_native-country.png?raw=true)
 
 ## Model
 Models used:
